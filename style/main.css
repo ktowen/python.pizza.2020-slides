@@ -1,0 +1,127 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url("/fonts/OpenSans-Regular.ttf");
+}
+@font-face {
+    font-family: "Roboto Medium";
+    src: url("/fonts/Roboto-Medium.ttf");
+}
+@font-face {
+    font-family: "HarryP";
+    src: url("/fonts/HarryP.ttf");
+}
+
+.potter * {
+    font-family: "HarryP";
+    text-shadow: 1px 1px 2px darkslategray;
+}
+
+.hero h1 {
+    font-size: 150px;
+    margin: 0 0 30px 0;
+}
+
+.hero h2 {
+    font-size: 60px;
+    margin: 0 0 0 200px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Roboto Medium";
+    text-shadow: 1px 1px 1px #888888;
+    font-weight: normal;
+}
+
+h5 {
+    margin-bottom: 0.5em;
+}
+
+hr {
+    height: 0;
+    padding: 0;
+    border: 2px solid darkslategray;
+}
+
+img {
+    max-width: 100%;
+    width: auto;
+    box-shadow: 1px 1px 5px darkslategray;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #4747DD
+}
+
+a:visited {
+    color: #4747DD
+}
+
+.remark-slide-content {
+    background-color: #fafafa;
+    font-family: "Open Sans";
+    font-size: 34px;
+    color: #223322;
+    padding: 1em 3em;
+}
+
+.remark-code,
+.remark-inline-code {
+    font-family: Consolas, "Roboto Mono", monospace;
+    font-size: 22px;
+}
+
+.avatar img {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+
+.max-height-img img {
+    height: 500px;
+}
+
+.left-column {
+    width: 49%;
+    float: left;
+}
+.right-column {
+    width: 49%;
+    float: right;
+}
+
+.left-column-33 {
+    width: 33%;
+    float: left;
+}
+.right-column-66 {
+    width: 66%;
+    float: right;
+}
+
+.left-column-66 {
+    width: 66%;
+    float: left;
+}
+.right-column-33 {
+    width: 33%;
+    float: right;
+}
+
+.right-column ~ p {
+    clear: both;
+}
+.right-column ~ ul {
+    clear: both;
+}
+.clear {
+    clear: both;
+}
+
+.bottom {
+    position: fixed;
+    max-width: 70%;
+    bottom: 0;
+}
