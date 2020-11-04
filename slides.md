@@ -94,7 +94,7 @@ class: middle center
 
 ---
 
-class: middle center hero
+class: middle center
 
 ## ¿Entonces, qué pasa?
 
@@ -112,13 +112,13 @@ class: middle center
 
 ---
 
-class: middle center hero
+class: middle center
 
 ## No es culpa de Django
 
 ---
 
-class: middle center hero
+class: middle center
 
 ## No mucho
 
