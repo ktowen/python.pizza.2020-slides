@@ -138,12 +138,6 @@ class: middle center
 
 class: middle center
 
-## ¿Cómo solucionarlo?
-
----
-
-class: middle center
-
 ## Subconsultas SQL
 
 ---
@@ -172,10 +166,11 @@ class: middle center
 
 ---
 
-class: middle center
+class: board
 
-## Tarea
-### Intentar usar Subquery
+## Tarea:
+
+- Intentar usar Subquery
 
 ---
 
@@ -216,10 +211,11 @@ class: middle center
 
 ---
 
-class: middle center
+class: board
 
-## Tarea
-### Comparar los resultados de usar EXPLAIN para todas las consultas
+## Tarea:
+
+- Comparar los resultados de usar EXPLAIN para todas las consultas
 
 ---
 

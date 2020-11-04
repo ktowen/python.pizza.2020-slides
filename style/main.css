@@ -125,3 +125,8 @@ a:visited {
     max-width: 70%;
     bottom: 0;
 }
+
+.board {
+    background-image: url("../images/board.jpg");
+    color: #fafafa;
+}
