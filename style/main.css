@@ -1,14 +1,14 @@
 @font-face {
     font-family: "Open Sans";
-    src: url("/fonts/OpenSans-Regular.ttf");
+    src: url("../fonts/OpenSans-Regular.ttf");
 }
 @font-face {
     font-family: "Roboto Medium";
-    src: url("/fonts/Roboto-Medium.ttf");
+    src: url("../fonts/Roboto-Medium.ttf");
 }
 @font-face {
     font-family: "HarryP";
-    src: url("/fonts/HarryP.ttf");
+    src: url("../fonts/HarryP.ttf");
 }
 
 .potter * {
