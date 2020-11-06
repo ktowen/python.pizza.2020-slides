@@ -120,10 +120,11 @@ a:visited {
     clear: both;
 }
 
-.bottom {
+.bottom-right {
     position: fixed;
     max-width: 70%;
     bottom: 0;
+    right: 3em;
 }
 
 .board {

@@ -61,15 +61,14 @@ class: middle center
 
 class: middle center
 
-![Todos los libros](images/libro-all.png)
-![Tabla libro](images/tabla-libros.png)
-
----
-
-class: middle center
-
-![Todos los articulos](images/articulo-all.png)
-![Tabla articulo](images/tabla-articulos.png)
+.left-column[
+    ![Todos los libros](images/libro-all.png)
+    ![Tabla libro](images/tabla-libros.png)
+]
+.right-column[
+    ![Todos los articulos](images/articulo-all.png)
+    ![Tabla articulo](images/tabla-articulos.png)
+]
 
 ---
 
@@ -120,13 +119,13 @@ class: middle center
 
 class: middle center
 
-## No mucho
+.max-height-img[![Meme traductora](images/meme-traductora.png)]
 
 ---
 
 class: middle center
 
-.max-height-img[![Meme traductora](images/meme-traductora.png)]
+## Un poquito si
 
 ---
 
@@ -163,14 +162,6 @@ class: middle center
 class: middle center
 
 ## TLDR. Se complica
-
----
-
-class: board
-
-## Tarea:
-
-- Intentar usar Subquery
 
 ---
 
@@ -211,19 +202,11 @@ class: middle center
 
 ---
 
-class: board
-
-## Tarea:
-
-- Comparar los resultados de usar EXPLAIN para todas las consultas
-
----
-
 class: middle center
 
 ![Referencia en la documentación](images/documentacion.png)
 
-.bottom[
+.bottom-right[
     [Combining multiple aggregations](https://docs.djangoproject.com/en/3.1/topics/db/aggregation/#combining-multiple-aggregations)
 ]
 
@@ -233,7 +216,7 @@ class: middle center
 
 ![Reporte en el tracker de django](images/issue.png)
 
-.bottom[
+.bottom-right[
     [Multiple table annotation failure](https://code.djangoproject.com/ticket/10060)
 ]
 
